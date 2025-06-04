@@ -66,7 +66,7 @@ This analysis aims to identify actionable patterns in pricing (MSRP), fuel effic
 
 ## Repository Structure
 
-'
+```
 📦car-dataset-capstone/
 ┣ Capstone_Project_Car_Dataset.ipynb
 ┣ car_dataset.csv
@@ -77,7 +77,7 @@ This analysis aims to identify actionable patterns in pricing (MSRP), fuel effic
 ┃ ┣ correlation_matrix.png
 ┗ presentation/
 ┗ Car_Data_Capstone_Presentation.pdf
-'
+```
 
 ---
 
