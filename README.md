@@ -69,14 +69,18 @@ This analysis aims to identify actionable patterns in pricing (MSRP), fuel effic
 ```
 📦car-dataset-capstone/
 ┣ Capstone_Project_Car_Dataset.ipynb
-┣ car_dataset.csv
 ┣ README.md
-┣ visualizations/
+┣ data/
+┃ ┗ car_dataset.csv
+┣ plots/
+┃ ┣ avg_msrp_vehicle_size.png
 ┃ ┣ city_mpg_histogram.png
-┃ ┣ engine_hp_vs_msrp.png
 ┃ ┣ correlation_matrix.png
+┃ ┣ engine_hp_vs_msrp.png
+┃ ┣ msrp_by_driven_wheels.png
+┃ ┗ transmission_vs_mpg.png
 ┗ presentation/
-┗ Car_Data_Capstone_Presentation.pdf
+  ┗ Car_Data_Capstone_Presentation.pdf
 ```
 
 ---
